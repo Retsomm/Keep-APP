@@ -1,5 +1,6 @@
 {
   "name": "my-rnapp",
+  "homepage":"https://Retsomm.github.io/my-rnapp"
   "version": "1.0.0",
   "main": "node_modules/expo/AppEntry.js",
   "scripts": {
